@@ -1,6 +1,6 @@
 ### Yoo, I'm Zevin 👋
 
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
+- 🍻 Junior at 🇨🇳, Specialty is software engineering
 - ⚡ C++ / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger](https://haysc.tech)
