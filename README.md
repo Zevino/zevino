@@ -8,6 +8,6 @@
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
-![](https://img.shields.io/badge/<CODE>-<JavaScript>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zevino&count_private=true&show_icons=true&theme=radical)
