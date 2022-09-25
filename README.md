@@ -1,7 +1,7 @@
 ### Yoo, I'm Zevin 👋
 
 - 🍻 From CN, Specialty is software engineering
-- ⚡ C++ / Python.
+- ⚡ Java / JavaScript / TypeScript.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger](https://zstore.ml)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
