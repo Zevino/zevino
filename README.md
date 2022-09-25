@@ -5,7 +5,6 @@
 - 🖋 Writer at [sspai](https://sspai.com/u/zevin)
 - ✍️ [Blogger](https://zstore.ml)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
 <h3>Tools && Skills</h3>
