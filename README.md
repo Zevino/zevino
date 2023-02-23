@@ -1,7 +1,7 @@
 ### Yoo, I'm Zevin 👋
 
 - 🍻 From CN, Specialty is software engineering
-- ⚡ Java / JavaScript / TypeScript.
+- ⚡ Java / JavaScript / TypeScript / Kotlin / Dart / Python / C / ....
 - 🖋 Writer at [sspai](https://sspai.com/u/zevin)
 - ✍️ [Blogger](https://zstore.ml)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
@@ -35,7 +35,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <br/>
-  Some not yet listed
+  <h4>Some not yet listed</h4>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zevino&count_private=true&show_icons=true&theme=radical)
