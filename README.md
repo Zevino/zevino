@@ -3,7 +3,7 @@
 - 🍻 From CN, Specialty is software engineering
 - ⚡ Java / JavaScript / TypeScript / Kotlin / Dart / Python / C / ....
 - 🖋 Writer at [sspai](https://sspai.com/u/zevin)
-- ✍️ [Blogger](https://zstore.ml)
+- ✍️ [Blog](https://intellieff.top)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - ♟ Chinese Chess / Chess 
 
