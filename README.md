@@ -41,5 +41,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=zevino&locale=zh_Hans)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zevino&count_private=true&show_icons=true&theme=radical)
-
-<h2>每天迈出一点点，小小习惯大改变</h2>
