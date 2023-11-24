@@ -45,6 +45,16 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![UniApp](https://img.shields.io/badge/-UniApp-008CFF?style=flat-square&logo=vue.js&logoColor=white)
+![Hybrid App Development](https://img.shields.io/badge/-Hybrid_App_Development-007ACC?style=flat-square)
+![Mobile App Development](https://img.shields.io/badge/-Mobile_App_Development-008CFF?style=flat-square)
+![Cross-Platform Development](https://img.shields.io/badge/-Cross_Platform_Development-61DAFB?style=flat-square)
+![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white)
+![小程序云开发](https://img.shields.io/badge/-小程序云开发-07C160?style=flat-square)
+![微信支付](https://img.shields.io/badge/-微信支付-07C160?style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter Animation](https://img.shields.io/badge/-Flutter_Animation-02569B?style=flat-square)
+![Flutter Web](https://img.shields.io/badge/-Flutter_Web-0175C2?style=flat-square)
 
 #### 后端开发
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
@@ -58,7 +68,7 @@
 ![RESTful API](https://img.shields.io/badge/-RESTful_API-336791?style=flat-square)
 ![Microservices](https://img.shields.io/badge/-Microservices-336791?style=flat-square)
 ![Testing](https://img.shields.io/badge/-Testing-00ADD8?style=flat-square)
-
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 #### 数据库与存储
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -79,6 +89,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=black)
+![Cloud Storage](https://img.shields.io/badge/-Cloud_Storage-4285F4?style=flat-square)
 
 #### 其他技能
 ![Software Engineering](https://img.shields.io/badge/-Software_Engineering-000000?style=flat-square)
