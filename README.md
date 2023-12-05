@@ -33,7 +33,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" /> <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 
-#### 前端开发
+#### 前端开发 (front-end development)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
@@ -55,7 +55,7 @@
 ![Flutter Animation](https://img.shields.io/badge/-Flutter_Animation-02569B?style=flat-square)
 ![Flutter Web](https://img.shields.io/badge/-Flutter_Web-0175C2?style=flat-square)
 
-#### 后端开发
+#### 后端开发 (back-end development)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
@@ -69,19 +69,19 @@
 ![Testing](https://img.shields.io/badge/-Testing-00ADD8?style=flat-square)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-#### 数据库与存储
+#### 数据库与存储 (Database and Storage)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
-#### 版本控制
+#### 版本控制 (Version control)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
 
-#### 云服务与部署
+#### 云服务与部署 (Cloud services and deployment)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
@@ -90,7 +90,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=black)
 ![Cloud Storage](https://img.shields.io/badge/-Cloud_Storage-4285F4?style=flat-square)
 
-#### 其他技能
+#### 其他技能 (other skills)
 ![Software Engineering](https://img.shields.io/badge/-Software_Engineering-000000?style=flat-square)
 ![System Design](https://img.shields.io/badge/-System_Design-343434?style=flat-square)
 ![TDD](https://img.shields.io/badge/-TDD-0095D5?style=flat-square)
