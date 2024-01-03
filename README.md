@@ -99,6 +99,8 @@
   <br/>
 </p>  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zevino&locale=zh_Hans)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zevino&count_private=true&show_icons=true&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zevino/zevino/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zevino/zevino/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zevino/zevino/output/github-snake.svg">
+</picture> 
