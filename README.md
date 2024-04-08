@@ -1,12 +1,3 @@
-### Yoo, I'm Zevin 👋
-
-- 🍻 From CN, Specialty is software engineering
-- ⚡ Java / JavaScript / TypeScript / Kotlin / Dart / Python / C / ....
-- 🖋 Writer at [sspai](https://sspai.com/u/zevin)
-- ✍️ [Blog](https://intellieff.top)
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- ♟ Chinese Chess / Chess 
-
 <h3>Tools && Skills</h3>
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
