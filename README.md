@@ -20,25 +20,11 @@
 
 ### 03 / AI & Agent Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=openai,huggingface,python" />
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-5B5BD6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_Database-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=flat-square" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python" /> <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-5B5BD6?style=flat-square" /> <img src="https://img.shields.io/badge/Vector_Database-008080?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=flat-square" /></p>
 
 ### 04 / Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/UniApp-2B9939?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=flat-square&logo=wechat&logoColor=white" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=flutter,dart" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/UniApp-2B9939?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=flat-square&logo=wechat&logoColor=white" /></p>
 
 ### 05 / Database
 
