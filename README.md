@@ -20,7 +20,7 @@
 
 ### 03 / AI & Agent Engineering
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python" /> <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-5B5BD6?style=flat-square" /> <img src="https://img.shields.io/badge/Vector_Database-008080?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=flat-square" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=py" /> <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-5B5BD6?style=flat-square" /> <img src="https://img.shields.io/badge/Vector_Database-008080?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=flat-square" /></p>
 
 ### 04 / Mobile Development
 
