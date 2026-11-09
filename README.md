@@ -33,7 +33,7 @@
 ### 04 / Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,android" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/UniApp-2B9939?style=flat-square&logo=vue.js&logoColor=white" />
@@ -71,13 +71,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Zevino/snk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Zevino/snk/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Zevino/zevino/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Zevino/zevino/output/github-snake.svg"
+    />
     <img
+      src="https://raw.githubusercontent.com/Zevino/zevino/output/github-snake.svg"
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Zevino/snk/output/github-snake.svg"
-      width="100%" />
+      width="100%"
+    />
   </picture>
 </p>
