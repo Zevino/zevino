@@ -11,6 +11,13 @@ Although this repository primarily contains a GitHub profile README and its supp
 - Improve the contribution-snake workflow.
 - Correct documentation and add useful setup notes.
 
+## Accessibility guidelines
+
+- Add concise, meaningful `alt` text to informative images, including technology icons, badges, statistics cards, and charts.
+- Use empty alternative text (`alt=""`) for purely decorative images so screen readers can skip them.
+- Avoid repeating information that is already clearly stated in nearby text.
+- Keep alternative text focused on the purpose or information conveyed by the image rather than describing its visual appearance in unnecessary detail.
+
 ## Before opening a pull request
 
 1. Keep changes focused and explain the problem they solve.
@@ -23,6 +30,7 @@ Although this repository primarily contains a GitHub profile README and its supp
 
 - [ ] The change has a clear purpose.
 - [ ] README links and image URLs have been checked.
+- [ ] Informative images have meaningful alternative text; decorative images use empty alternative text.
 - [ ] Workflow changes have been reviewed for permissions and security.
 - [ ] Documentation is updated when needed.
 
